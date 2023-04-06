@@ -59,6 +59,19 @@ Publications
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="[https://arxiv.org/abs/2210.02689](https://arxiv.org/abs/2112.06150)">[arXiv]</a> 
 
+## Preprints
+> <i style='font-style: normal;'>**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**<br></i>
+>> <i style='font-style: normal;'>Hwan Heo, Taekyung Kim, Jiyoung Lee, Jaewon Lee, **Soohyun Kim**, Hyunwoo J. Kim, Jin-Hwa Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2302.01571">[arXiv]</a>
+  
+Honors
+======
+* Korean Computer Vision Society, Feb. 2022
+  * 34th Workshop on Image Processing and Image Understanding, Best Paper Award (Silver Prize), Won 60M KRW 
+* Korea Institute of Science and Technology Information (KISTI), Aug. 2018
+  * 2018 AI School, KISTI Director Award, Won 50M KRW
+  
 Skills
 ======
 * Deep Learning, Machine Learning
