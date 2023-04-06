@@ -10,7 +10,7 @@ redirect_from:
 Research Interest
 ======
 **Generative Models**. e.g., Image-to-Image Translation, Diffusion Models, Domain Adaptation, etc. <br>
-**Multimodal Learning**. e.g., Text-guided Image Manipulation, etc. <br>
+**Multimodal Learning**. e.g., Text-guided Image Manipulation, Audio-Visual Processing etc. <br>
 
 
 Also, I'm always trying to study various fields not stated above to facilitate interdisciplinary research.
