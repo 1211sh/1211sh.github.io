@@ -39,6 +39,14 @@ Experience
   * July. 2020 - Feb. 2021
   * Advisor: Prof. Seungryong Kim
 
+* Virginia Tech, VA, USA
+  * Exchange Student
+  * Jan. 2019 - May. 2019
+
+* University of California, Davis (UC Davis), CA, USA
+  * Exchange Student
+  * Sep. 2018 - Dec. 2018
+
 Publications
 ======
 
