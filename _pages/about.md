@@ -73,6 +73,11 @@ Publications
 >> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2302.01571">[arXiv]</a>
   
+> <i style='font-style: normal;'>**Panoramic Image-to-Image Translation**<br></i>
+>> <i style='font-style: normal;'>**Soohyun Kim**, Junho Kim, Taekyung Kim, Hwan Heo, Seungryong Kim, Jiyoung Lee, Jin-Hwa Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2304">[arXiv]</a>
+  
 Honors
 ======
 * Korean Computer Vision Society, Feb. 2022
