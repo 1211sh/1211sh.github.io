@@ -71,7 +71,7 @@ Publications
 > <i style='font-style: normal;'>**Panoramic Image-to-Image Translation**<br></i>
 >> <i style='font-style: normal;'>**Soohyun Kim**, Junho Kim, Taekyung Kim, Hwan Heo, Seungryong Kim, Jiyoung Lee, Jin-Hwa Kim<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2304">[arXiv]</a>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2304.04960">[arXiv]</a>
   
 > <i style='font-style: normal;'>**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**<br></i>
 >> <i style='font-style: normal;'>Hwan Heo, Taekyung Kim, Jiyoung Lee, Jaewon Lee, **Soohyun Kim**, Hyunwoo J. Kim, Jin-Hwa Kim<br></i>
