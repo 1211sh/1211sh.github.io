@@ -21,7 +21,7 @@ Education
 
 * Korea University, Seoul, Korea
   * M.S. Student in Computer Science and Engineering
-  * Mar. 2021 - Feb. 2022
+  * Mar. 2021 - Feb. 2023
 
 * Ewha Womans University, Seoul, Korea
   * B.S. in Electrical Engineering
