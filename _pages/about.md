@@ -60,12 +60,12 @@ Publications
 > <i style='font-style: normal;'>**InstaFormer: Instance-aware Image-to-Image Translation with Transformer**<br></i>
 >> <i style='font-style: normal;'>**Soohyun Kim**, Jongbeom Baek, Jihye Park, Gyeongnyeon Kim, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/InstaFormer/">[Project Page]</a> <a href="[https://arxiv.org/abs/2209.11047](https://arxiv.org/abs/2203.16248)">[arXiv]</a> 
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/InstaFormer/">[Project Page]</a> <a href="https://arxiv.org/abs/2203.16248">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Deep Translation Prior: Test-time Training for Photorealistic Style Transfer**<br></i>
 >> <i style='font-style: normal;'>Sunwoo Kim\*, **Soohyun Kim**\*, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br></i>
->> <i style='font-style: normal;'><a href="[https://arxiv.org/abs/2210.02689](https://arxiv.org/abs/2112.06150)">[arXiv]</a> 
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2112.06150">[arXiv]</a> 
 
 ## Preprints
 > <i style='font-style: normal;'>**Panoramic Image-to-Image Translation**<br></i>
