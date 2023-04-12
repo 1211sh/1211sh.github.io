@@ -27,7 +27,7 @@ Education
   * B.S. in Electrical Engineering
   * Mar. 2016 - Feb. 2021
 
-Experience
+Experience 
 ======
 * Naver AI Lab, Gyeonggi, Korea
   * Research Intern
