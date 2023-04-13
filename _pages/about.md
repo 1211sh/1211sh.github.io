@@ -82,9 +82,9 @@ Publications
 Honors
 ======
 * Korean Computer Vision Society, Feb. 2022
-  * 34th Workshop on Image Processing and Image Understanding, Best Paper Award (Silver Prize), Won 60M KRW 
+  * 34th Workshop on Image Processing and Image Understanding, Best Paper Award (Silver Prize)
 * Korea Institute of Science and Technology Information (KISTI), Aug. 2018
-  * 2018 AI School, KISTI Director Award, Won 50M KRW
+  * 2018 AI School, KISTI Director Award
   
 Skills
 ======
