@@ -56,7 +56,12 @@ Publications
 >> <i style='font-style: normal;'>Jihye Park\*, Sunwoo Kim\*, **Soohyun Kim**\*, Seokju Cho, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/LANIT/">[Project Page]</a> <a href="https://arxiv.org/abs/2208.14889">[arXiv]</a> 
-
+  
+> <i style='font-style: normal;'>**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**<br></i>
+>> <i style='font-style: normal;'>Hwan Heo, Taekyung Kim, Jiyoung Lee, Jaewon Lee, **Soohyun Kim**, Hyunwoo J. Kim, Jin-Hwa Kim<br></i>
+>> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**), 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2302.01571">[arXiv]</a>
+  
 > <i style='font-style: normal;'>**InstaFormer: Instance-aware Image-to-Image Translation with Transformer**<br></i>
 >> <i style='font-style: normal;'>**Soohyun Kim**, Jongbeom Baek, Jihye Park, Gyeongnyeon Kim, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2022.<br></i>
@@ -66,11 +71,7 @@ Publications
 >> <i style='font-style: normal;'>Sunwoo Kim\*, **Soohyun Kim**\*, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2112.06150">[arXiv]</a> 
-  
-> <i style='font-style: normal;'>**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**<br></i>
->> <i style='font-style: normal;'>Hwan Heo, Taekyung Kim, Jiyoung Lee, Jaewon Lee, **Soohyun Kim**, Hyunwoo J. Kim, Jin-Hwa Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**), 2023.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2302.01571">[arXiv]</a>
+
 
 ## Preprints
 > <i style='font-style: normal;'>**Panoramic Image-to-Image Translation**<br></i>
