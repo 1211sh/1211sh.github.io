@@ -50,6 +50,13 @@ Experience
 Publications
 ======
 
+## International Journal
+
+> <i style='font-style: normal;'>**InstaFormer++: Multi-Domain Instance-aware Image-to-Image Translation with Transformer**<br></i>
+>> <i style='font-style: normal;'>**Soohyun Kim**, Jongbeom Baek, Jihye Park, Eunjae Ha, Homin Jung, Taeyoung Lee, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>International Journal of Computer Vision, <br></i>
+>> <i style='font-style: normal;'>To be appeared (Impact Factor: 13.369).<br></i>
+
 ## International Conference
 
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
