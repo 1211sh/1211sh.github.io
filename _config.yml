@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Soohyun Kim"
 title_separator          : "-"
 name                     : &name "Soohyun Kim"
-description              : &description "M.S. student @ Korea University CVLAB"
+description              : &description "Generative AI Task, AI Lab, CTO, LGE"
 url                      : https://1211sh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "1211sh/1211sh.github.io"
