@@ -77,7 +77,14 @@ Publications
 > <i style='font-style: normal;'>**Deep Translation Prior: Test-time Training for Photorealistic Style Transfer**<br></i>
 >> <i style='font-style: normal;'>Sunwoo Kim\*, **Soohyun Kim**\*, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2112.06150">[arXiv]</a> 
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2112.06150">[arXiv]</a>
+
+> <i style='font-style: normal;'>**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation
+**<br></i>
+>> <i style='font-style: normal;'>Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn <br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+
+
 
 
 ## Preprints
