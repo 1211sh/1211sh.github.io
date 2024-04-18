@@ -59,6 +59,10 @@ Publications
 
 ## International Conference
 
+> <i style='font-style: normal;'>**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**<br></i>
+>> <i style='font-style: normal;'>Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn <br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
 >> <i style='font-style: normal;'>Jihye Park\*, Sunwoo Kim\*, **Soohyun Kim**\*, Seokju Cho, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
@@ -79,9 +83,6 @@ Publications
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2112.06150">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**<br></i>
->> <i style='font-style: normal;'>Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn <br></i>
->> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
 
 
 
