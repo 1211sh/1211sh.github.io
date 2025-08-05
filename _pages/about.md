@@ -32,9 +32,9 @@ Experience
 * Naver AI Lab, Gyeonggi, Korea
   * Research Intern
   * July. 2022 - Dec. 2022 
-  * Advisor: Jin-Hwa Kim, Jiyoung Lee
+  * Advisor: <a href="https://wityworks.com">Jin-Hwa Kim</a>, <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a>
 
-* Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
+* Korea University <a href="https://cvlab.kaist.ac.kr">CVLAB</a>, Seoul, Korea
   * Undergraduate Researcher
   * July. 2020 - Feb. 2021
   * Advisor: Prof. Seungryong Kim
@@ -60,7 +60,7 @@ Publications
 ## International Conference
 
 > <i style='font-style: normal;'>**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**<br></i>
->> <i style='font-style: normal;'>Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn <br></i>
+>> <i style='font-style: normal;'>Jihyun Kim, Changjae Oh, Hoseok Do, **Soohyun Kim**, Kwanghoon Sohn <br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
 
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
