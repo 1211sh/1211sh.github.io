@@ -24,8 +24,8 @@ Publications
 
 > <i style='font-style: normal;'>**InstaFormer++: Multi-Domain Instance-aware Image-to-Image Translation with Transformer**<br></i>
 >> <i style='font-style: normal;'>**Soohyun Kim**, Jongbeom Baek, Jihye Park, Eunjae Ha, Homin Jung, Taeyoung Lee, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Journal of Computer Vision, <br></i>
->> <i style='font-style: normal;'>To be appeared (Impact Factor: 13.369).<br></i>
+>> <i style='font-style: normal;'>International Journal of Computer Vision (Impact Factor: 13.369), <br></i>
+>> <i style='font-style: normal;'><a href="https://link.springer.com/article/10.1007/s11263-023-01866-y">[arXiv]</a>
 
 ## International Conference
 
