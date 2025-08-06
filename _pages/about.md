@@ -16,36 +16,6 @@ Research Interest
 Also, I'm always trying to study various fields not stated above to facilitate interdisciplinary research.
 
 
-Education
-======
-
-* Korea University, Seoul, Korea
-  * M.S. Student in Computer Science and Engineering
-  * Mar. 2021 - Feb. 2023
-
-* Ewha Womans University, Seoul, Korea
-  * B.S. in Electrical Engineering
-  * Mar. 2016 - Feb. 2021
-
-Experience 
-======
-* Naver AI Lab, Gyeonggi, Korea
-  * Research Intern
-  * July. 2022 - Dec. 2022 
-  * Advisor: <a href="https://wityworks.com">Jin-Hwa Kim</a>, <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a>
-
-* Korea University <a href="https://cvlab.kaist.ac.kr">CVLAB</a>, Seoul, Korea
-  * Undergraduate Researcher
-  * July. 2020 - Feb. 2021
-  * Advisor: Prof. Seungryong Kim
-
-* Virginia Tech, VA, USA
-  * Exchange Student
-  * Jan. 2019 - May. 2019
-
-* University of California, Davis (UC Davis), CA, USA
-  * Exchange Student
-  * Sep. 2018 - Dec. 2018
 
 Publications
 ======
@@ -93,6 +63,40 @@ Publications
 >> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2304.04960">[arXiv]</a>
   
+
+Work Experience 
+======
+* LG Electronics, Seoul, Korea
+  * Senior Researcher
+  * August. 2023 -  
+
+* Naver AI Lab, Gyeonggi, Korea
+  * Research Intern
+  * July. 2022 - Dec. 2022 
+  * Advisor: <a href="https://wityworks.com">Jin-Hwa Kim</a>, <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a>
+
+
+
+Education
+======
+
+* Korea University, Seoul, Korea
+  * M.S. Student in Computer Science and Engineering
+  * Mar. 2021 - Feb. 2023
+
+* Ewha Womans University, Seoul, Korea
+  * B.S. in Electrical Engineering
+  * Mar. 2016 - Feb. 2021
+ 
+* Virginia Tech, VA, USA
+  * Exchange Student
+  * Jan. 2019 - May. 2019
+
+* University of California, Davis (UC Davis), CA, USA
+  * Exchange Student
+  * Sep. 2018 - Dec. 2018
+
+
  
   
 Honors
